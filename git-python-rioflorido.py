@@ -1,3 +1,6 @@
 print("Arvin Rioflorido")
 print("Nangka, Torrijos, Marinduque")
 print("April 11, 2000")
+print("Marinduque State College")
+print("Bachelor of Science in Information Technology")
+print("2F")
